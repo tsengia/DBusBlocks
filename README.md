@@ -5,6 +5,8 @@ A block-based interface to generate [DBus Introspection files](https://dbus.free
 Drag blocks for the left-side pane over to the right to built the specification for a node and its interfaces. Multiple nodes can be designed at once and will be generated into seperate files.
 Click the "Generate DBus Introspection" button on the bottom left to generate the XML files to download.
 
+There is a hosted version [here](http://personal.psu.edu/~txs5620/dbusblocks/).
+
 # Features
 - Support for dictionaries, arrays, structs
 - Support for methods, properties, signals
