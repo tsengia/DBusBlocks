@@ -1,5 +1,5 @@
 # DBusBlocks
-A block-based interface to generate DBus Introspection files. 
+A block-based interface to generate [DBus Introspection files](https://dbus.freedesktop.org/doc/dbus-specification.html). 
 
 # Usage
 Drag blocks for the left-side pane over to the right to built the specification for a node and its interfaces. Multiple nodes can be designed at once and will be generated into seperate files.
