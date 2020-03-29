@@ -12,3 +12,6 @@ Click the "Generate DBus Introspection" button on the bottom left to generate th
 - Support for multiple inputs and outputs in methods
 - Generates file to download from browser, no need to copy+paste
 - Indents code automatically :)
+
+# Screenshot
+![screenshot of DBus Blocks workspace](https://raw.githubusercontent.com/ExpandingDev/DBusBlocks/master/example.PNG)
