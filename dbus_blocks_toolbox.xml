@@ -1,0 +1,44 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="Definitions" colour="#5b67a5">
+    <block type="node_definition">
+      <field name="node_path">/com/example/MyNode</field>
+    </block>
+    <block type="interface_definition">
+      <field name="interfaceName">com.example.interface.MyInterface</field>
+    </block>
+    <block type="method_definition">
+      <field name="NAME">exampleMethod</field>
+    </block>
+    <block type="property_definition">
+      <field name="property_name">exampleProperty</field>
+      <field name="NAME">r</field>
+    </block>
+    <block type="signal_definition">
+      <field name="singal_name">ExampleSignal</field>
+    </block>
+    <block type="named_arg">
+      <field name="arg_name">argName</field>
+    </block>
+  </category>
+  <category name="Basic Types" colour="#5ba55b">
+    <block type="string_type"></block>
+    <block type="byte_type"></block>
+    <block type="boolean_type"></block>
+    <block type="double_type"></block>
+    <block type="uint16_type"></block>
+    <block type="int16_type"></block>
+    <block type="uint32_type"></block>
+    <block type="int32_type"></block>
+    <block type="uint64_type"></block>
+    <block type="int64_type"></block>
+    <block type="object_path_type"></block>
+    <block type="unix_fd_type"></block>
+  </category>
+  <category name="Container Types" colour="#a5745b">
+    <block type="array_type_container"></block>
+    <block type="struct_type"></block>
+    <block type="struct_member"></block>
+    <block type="dictionary_type"></block>
+    <block type="variant_type"></block>
+  </category>
+</xml>
